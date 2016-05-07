@@ -35,7 +35,7 @@ that the matrix has four rows (one per domain) and four columns (one per file).
 -rw-r----- 1 asw devel 13124 May 31 14:30  splash.gif
 
 Domain	PPP-Notes 	prog1	project.t	splash.gif
-asw	r		rx	rw		rw		
+asw	r		rwx	rw		rw		
 gmw	rw			rw
 users	r			rw
 devel			rx			r
